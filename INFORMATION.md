@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qotsa1000.
-- 👀 I’m interested in trains, buses, cars and other things, and I want to be a member of train crew at West Midlands Trains.
+- 👀 I’m interested in trains, buses, cars and other things.
 - 🌱 I’m currently learning Level 3 Media in the Discovery Pathway at Hereward College in Coventry.
 - 💞️ I’m looking to help out in Python projects that interest me.
 - 📫 How to reach me: IDK.
